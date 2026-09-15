@@ -1,0 +1,12 @@
+lote,hectareas,produccion_toneladas,variedad,edad_cultivo_meses
+Lote A,10,85,CC 85-92,18
+Lote B,8,68,CC 85-92,24
+Lote C,12,102,V 71-51,36
+Lote D,6,51,CC 85-92,12
+Lote E,15,127,V 71-51,30
+Lote F,9,76,CC 85-92,20
+Lote G,11,93,V 71-51,28
+Lote H,7,59,CC 85-92,16
+Lote I,13,110,V 71-51,32
+Lote J,5,42,CC 85-92,14
+TOTAL,96,813,,

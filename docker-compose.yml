@@ -1,0 +1,11 @@
+﻿services:
+  analisis-ia:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: parcial1_ia_grupo02
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python analisis.py
